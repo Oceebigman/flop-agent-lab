@@ -1,0 +1,6 @@
+flop-report-*.json
+.env*
+*wallet*.json
+gateway-key
+
+
